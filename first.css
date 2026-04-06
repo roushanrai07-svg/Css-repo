@@ -1,5 +1,5 @@
 h2{
-    color:rgb(255,255,0);
+    color:rgba(79, 112, 211, 0.893);
     
 }
 button{
@@ -7,7 +7,7 @@ button{
     color:white;
 }
 p{
-    background-color:black;
+    background-color:rgba(72, 9, 57, 0.214);
     color:rgb(146, 26, 220);
     line-height: 1.8;
     font-size: 24px;
@@ -25,4 +25,8 @@ h1{
 }
 label{
     text-decoration:underline;
+}
+button:hover {
+    color: red;
+    background-color: antiquewhite;
 }
